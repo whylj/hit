@@ -2,6 +2,6 @@
 k开始
 p暂停
 1/2/3切换关卡
-https://github.com/whylj/hit/raw/master
+https://whylj.github.io/hit/.
 <br/> 
-![index](https://github.com/whylj/hit/raw/master/img/hit.jpg)
+![index](https://github.com/whylj/hit/raw/master/img/hit.PNG)
