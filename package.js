@@ -35,9 +35,9 @@ var enableDebugMode = function(game, enable) {
 
 var __main = function() {
     var images = {
-        ball: 'blob/master/img/ball.png',
-        block: 'blob/master/img/block.png',
-        paddle: 'blob/master/img/paddle.png',
+        ball: 'img/ball.png',
+        block: 'img/block.png',
+        paddle: 'img/paddle.png',
     }
     var game = GuaGame.instance(30, images, function(g){
         var s = SceneTitle.new(g)
